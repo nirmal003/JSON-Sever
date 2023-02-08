@@ -9,6 +9,7 @@
   "author": "Nirmal",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.1",
+    "vercel": "^28.15.2"
   }
 }
